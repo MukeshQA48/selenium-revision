@@ -1,0 +1,214 @@
+
+<!DOCTYPE html>
+<html>
+<!--
+=======================================================
+Do not copy form HTML to your site. Use the Embed Code.
+=======================================================
+-->
+<head>
+<base href="https://fs2.formsite.com/meherpavan/" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="0" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@formsite" />
+<meta property="og:title" content="Automation Practice Form" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://fs2.formsite.com/meherpavan/form1/index.html" />
+<meta property="og:site_name" content="Formsite" />
+<meta property="og:description" content="View this form on Formsite" />
+<meta property="og:image" content="https://fs2.formsite.com/images/social/twitter-share.jpg" />
+<meta property="fb:admins" content="150429050199"/>
+<title>Automation Practice Form</title>
+<link rel="stylesheet" type="text/css" media="screen" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/include/form/fonts8.css?6356176646723" />
+<link rel="stylesheet" type="text/css" media="all" href="/include/form/screen8.css?6356176646723" />
+<link rel="stylesheet" type="text/css" media="print" href="/include/form/print8.css?6356176646723" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="stylesheet" type="text/css" media="screen" href="/include/form/responsive8.css?6356176646723" />
+<style type="text/css" media="all">
+</style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="/include/form/form8.js?6356176646723"></script>
+<script>
+var instructions = {};
+instructions[27] = "File Max Size 20 MB";
+</script>
+</head>
+<body>
+<form method="post" id="FSForm" action="https://fs2.formsite.com/res/submit" enctype="multipart/form-data" onsubmit="return Vromansys.Form.processSubmit(this);">
+<div style="display:none;">
+<input type="hidden" name="locid" value="meherpavan/form1" />
+<input type="hidden" name="EParam" value="AT1kKIiyxDxvqw1zPne7Monjqh0-izcTjAIzAAWZiU_bIPuWfr0H4WYsfOKR4swo" />
+<input type="hidden" name="ElapsedTime" id="ElapsedTime" value="0" />
+<input type="hidden" name="Referrer" id="Referrer" value="" />
+<input type="text" name="subject_line" id="subject_line" autocomplete="off" /><label for="subject_line">subject_line</label>
+</div>
+
+<!-- BEGIN_ITEMS -->
+<div class="form_table">
+
+<div class="clear"></div>
+
+<div id="q19" class="q full_width">
+<a class="item_anchor" name="ItemAnchor0"></a>
+<div class="segment_header" style="background:#111111;width:auto;text-align:Center;"><h1 style="font-size:36px;font-family:'Dosis',sans-serif;padding:20px 1em ;">Volunteer Signup</h1></div>
+</div>
+
+<div class="clear"></div>
+
+<div id="q20" class="q full_width">
+<a class="item_anchor" name="ItemAnchor1"></a>
+<div class="full_width_space"><div><span style="font-family: 'Dosis',sans-serif; font-size: 18px;">The HELP Group is seeking volunteers to serve our community. Fill in the information below to indicate how you would like to become involved.</span></div></div>
+</div>
+
+<div class="clear"></div>
+
+<div id="q2" class="q">
+<a class="item_anchor" name="ItemAnchor2"></a>
+<label class="question top_question" for="RESULT_TextField-2">Name</label>
+<input type="text" name="RESULT_TextField-2" class="text_field" id="RESULT_TextField-2"  size="25" maxlength="255" value="" />
+</div>
+<div id="q6" class="q">
+<a class="item_anchor" name="ItemAnchor3"></a>
+<label class="question top_question" for="RESULT_TextField-3">City</label>
+<input type="text" name="RESULT_TextField-3" class="text_field" id="RESULT_TextField-3"  size="25" maxlength="255" value="" />
+</div>
+<div id="q10" class="q">
+<a class="item_anchor" name="ItemAnchor4"></a>
+<label class="question top_question" for="RESULT_TextField-4">Email Address</label>
+<input type="email" name="RESULT_TextField-4" class="text_field" id="RESULT_TextField-4"  size="25" maxlength="255" value="" />
+</div>
+<div id="q9" class="q">
+<a class="item_anchor" name="ItemAnchor5"></a>
+<label class="question top_question" for="RESULT_TextField-5">Phone</label>
+<input type="text" name="RESULT_TextField-5" class="text_field" id="RESULT_TextField-5"  size="25" maxlength="255" value="" />
+</div>
+
+<div class="clear"></div>
+
+<div id="q11" class="q">
+<a class="item_anchor" name="ItemAnchor6"></a>
+<label class="question top_question" for="RESULT_RadioButton-6">Best Time to Contact</label>
+<select id="RESULT_RadioButton-6" name="RESULT_RadioButton-6" class="drop_down">
+<option></option>
+<option value="Radio-0">Morning</option>
+<option value="Radio-1">Afternoon</option>
+<option value="Radio-2">Evening</option>
+</select>
+</div>
+
+<div class="clear"></div>
+
+<div id="q12" class="q">
+<a class="item_anchor" name="ItemAnchor7"></a>
+<span class="question top_question">Have you previously done volunteer <br />work for this organization?</span>
+<table class="inline_grid choices">
+<tr><td><input type="radio" name="RESULT_RadioButton-7" class="multiple_choice" id="RESULT_RadioButton-7_0" value="Radio-0" /><label for="RESULT_RadioButton-7_0">Yes</label><td><input type="radio" name="RESULT_RadioButton-7" class="multiple_choice" id="RESULT_RadioButton-7_1" value="Radio-1" /><label for="RESULT_RadioButton-7_1">No</label></tr>
+</table>
+</div>
+
+<div class="clear"></div>
+
+<div id="q15" class="q">
+<a class="item_anchor" name="ItemAnchor8"></a>
+<span class="question top_question">What days of the week are you <br />consistently available?</span>
+<table class="inline_grid choices">
+<tr><td><input type="checkbox" name="RESULT_CheckBox-8" class="multiple_choice" id="RESULT_CheckBox-8_0" value="CheckBox-0" /><label for="RESULT_CheckBox-8_0">Sunday</label></tr>
+<tr><td><input type="checkbox" name="RESULT_CheckBox-8" class="multiple_choice" id="RESULT_CheckBox-8_1" value="CheckBox-1" /><label for="RESULT_CheckBox-8_1">Monday</label></tr>
+<tr><td><input type="checkbox" name="RESULT_CheckBox-8" class="multiple_choice" id="RESULT_CheckBox-8_2" value="CheckBox-2" /><label for="RESULT_CheckBox-8_2">Tuesday</label></tr>
+<tr><td><input type="checkbox" name="RESULT_CheckBox-8" class="multiple_choice" id="RESULT_CheckBox-8_3" value="CheckBox-3" /><label for="RESULT_CheckBox-8_3">Wednesday</label></tr>
+<tr><td><input type="checkbox" name="RESULT_CheckBox-8" class="multiple_choice" id="RESULT_CheckBox-8_4" value="CheckBox-4" /><label for="RESULT_CheckBox-8_4">Thursday</label></tr>
+<tr><td><input type="checkbox" name="RESULT_CheckBox-8" class="multiple_choice" id="RESULT_CheckBox-8_5" value="CheckBox-5" /><label for="RESULT_CheckBox-8_5">Friday</label></tr>
+<tr><td><input type="checkbox" name="RESULT_CheckBox-8" class="multiple_choice" id="RESULT_CheckBox-8_6" value="CheckBox-6" /><label for="RESULT_CheckBox-8_6">Saturday</label></tr>
+</table>
+</div>
+
+<div class="clear"></div>
+
+<div id="q22" class="q">
+<a class="item_anchor" name="ItemAnchor9"></a>
+<label class="question top_question" for="RESULT_TextField-9">Select Date</label>
+<input type="text" name="RESULT_TextField-9" class="text_field calendar_field" id="RESULT_TextField-9" size="15" maxlength="10" datemax="" datemin="" value="" date="mm-dd-yy" />&nbsp;<span class="icon_calendar"><span class="accessibility_hidden">+</span></span>
+</div>
+<div id="q27" class="q">
+<a class="item_anchor" name="ItemAnchor10"></a>
+<label class="question left_question" for="RESULT_FileUpload-10">Upload File&nbsp;<span class=instructions>&#x1f6c8;</span></label>
+<div class="inline_answer"><input type="file" name="RESULT_FileUpload-10" size="25" class="file_upload" id="RESULT_FileUpload-10" max="5" multiple /><br/><div class="file_upload_files"></div><div class="file_upload_info"></div></div>
+</div>
+
+<div class="clear"></div>
+
+<div id="q17" class="q">
+<a class="item_anchor" name="ItemAnchor11"></a>
+<label class="question top_question" for="RESULT_TextArea-11">Comments/Additional Information</label>
+<textarea name="RESULT_TextArea-11" class="text_field" id="RESULT_TextArea-11" rows="7" cols="50"></textarea>
+</div>
+
+<div class="clear"></div>
+
+<div id="q24" class="q full_width">
+<a class="item_anchor" name="ItemAnchor12"></a>
+<div class="full_width_space" style="text-align:center" ><a href="http://newtours.demoaut.com/" class="link">Flight Reservation</a></div>
+</div>
+
+<div class="clear"></div>
+
+<div id="q23" class="q full_width">
+<a class="item_anchor" name="ItemAnchor13"></a>
+<div class="full_width_space" style="text-align:center" ><a href="http://opensource.demo.orangehrmlive.com/" class="link">OrangeHRM</a></div>
+</div>
+
+<div class="clear"></div>
+
+<div id="q28" class="q full_width">
+<a class="item_anchor" name="ItemAnchor14"></a>
+<!doctype html>
+
+
+  <meta charset="utf-8">
+  <title>dblclick demo</title>
+  <style>
+  div {
+    background: blue;
+    color: white;
+    height: 100px;
+    width: 150px;
+ }
+  div.dbl {
+    background: yellow;
+    color: black;
+  }
+  </style>
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+
+
+ 
+<div></div>
+<span>Double click the block</span>
+ 
+<script>
+var divdbl = $( "div:first" );
+divdbl.dblclick(function() {
+  divdbl.toggleClass( "dbl" );
+});
+</script>
+ 
+
+
+</div>
+<div class="clear"></div>
+
+<div style="position:relative;font-family:'Open Sans',Helvetica,Arial,sans-serif;font-size:12px;line-height:36px;text-align:left;background-color:#fafafa;height:35px;margin-top:10px;overflow:hidden;">
+<a target="_top" tabindex="-1" style="position:absolute;color:#266CAE;text-decoration:none;outline:none;min-width:210px;text-align:right;right:0;" onMouseOver="this.style.backgroundColor='#f1f1f1'" onMouseOut="this.style.backgroundColor='transparent'" href="https://www.formsite.com/?utm_source=footer">Powered by<img class="svg" src="/images/layout/external/formsite_logo.svg" alt="Formsite" style="height:16px;margin:-3px 20px 0 8px;vertical-align:middle;" /></a><a style="position:absolute;padding:0 12px;color:#266CAE;outline:none;text-decoration:none;" tabindex="-1" target="_blank" onMouseOver="this.style.backgroundColor='#f1f1f1'" onMouseOut="this.style.backgroundColor='transparent'" href="https://www.formsite.com/form_app/FormSite?EParam=Dwsnv4qzZPqB66fs8gZt46LUUzh9HC4IG6dvSNxFOr9vqw1zPne7MsbXoygwKNSPWAuIzYwv1bcqbyodJ7JbwBLyZTCOtaAm_NnGP63uY9g_eu2OmJCwVBGdhKIU6BSERynUe4XylVl9FSqrYyMFCW8OpheyT3IA5iJwwdf1fML0wk1B-0O_A1LTomxyT5SWFzpUCZwnDno" rel="nofollow">Report abuse</a>
+</div>
+</div>
+<!-- END_ITEMS -->
+<input type="hidden" name="EParam" value="FzpUCZwnDno" />
+<div class="outside_container">
+<div class="buttons_reverse"><input type="submit" name="Submit" value="Submit" class="submit_button" id="FSsubmit" /></div>
+</div>
+</form>
+</body>
+</html>
